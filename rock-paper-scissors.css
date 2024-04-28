@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+.button-icon {
+    height: 50px ;
+}
+.button-css {
+    border-radius: 50%;
+    padding: 25px;
+    cursor: pointer;
+}
+.button-reset {
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 8px 10px;
+    border: none;
+
+}
+.button_autoplay-css {
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 8px 10px;
+    border: none;
+}
